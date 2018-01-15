@@ -25,7 +25,7 @@ SECRET_KEY = 't0e@ig72&4$!rxc2am4awsmqifh*fgo&6v=21o%=8q8g+^7vpn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [acpanjan.pythonanywhere.com]
 
 
 # Application definition
